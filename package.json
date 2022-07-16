@@ -1,0 +1,22 @@
+{
+  "name": "fitness-api",
+  "version": "1.0.0",
+  "description": "an Express.js HTTP API for my personal fitness tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallalgaham/fitness-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallalgaham/fitness-api/issues"
+  },
+  "homepage": "https://github.com/dallalgaham/fitness-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
